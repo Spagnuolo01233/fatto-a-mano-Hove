@@ -1,0 +1,41 @@
+#logoFAM{
+    width: 80vw;
+    margin: auto;
+}
+
+#nomeBarra{
+    color: #0b3558;
+	font-family: "Lora", serif;
+    font-weight: 800;
+    font-size: 25px;
+    margin-right: 35px;
+}
+
+#colore1{
+    background-color: #0b3558;
+    color: aliceblue;
+}
+
+p{
+    text-align: center;
+}
+
+body{
+    font-family: "Lora", serif;
+}
+
+#bordo{
+    border: #0b3558 5px solid;
+    border-radius: 10%;
+    margin-top: 50px;
+}
+
+#titolo{
+    font-weight: bold;
+}
+
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+
