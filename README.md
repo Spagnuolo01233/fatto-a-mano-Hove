@@ -1,7 +1,14 @@
+
 # Fatto a Mano Hove
 
 #link:
 https://spagnuolo01233.github.io/fatto-a-mano-hove/
+
+# QR code
+
+<img width="296" alt="QR Menu" src="https://github.com/Spagnuolo01233/fatto-a-mano-hove/assets/107647174/9e8190b0-30d8-4b10-ad66-2fc8cd8e9623">
+
+
 
 # Restaurant Monthly Specials Menu
 Welcome to the Restaurant Monthly Specials Menu repository! This project features a mobile-optimized website showcasing the monthly specials offered at our restaurant. Users can easily access the specials menu by scanning a QR code, providing a convenient way to explore our delicious offerings on their smartphones.
